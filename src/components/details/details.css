@@ -1,0 +1,7 @@
+.detailsWindow {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: darkolivegreen;
+    border-radius: 15px;
+    padding: 20px;
+}
